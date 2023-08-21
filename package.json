@@ -1,0 +1,17 @@
+{
+  "name": "aero",
+  "version": "0.0.1",
+  "description": "Exercise game for airbikes (Airdyne, etc.)",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dylan Freedman",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^4.4.2"
+  },
+  "dependencies": {
+    "pixi.js": "^7.2.4"
+  }
+}
